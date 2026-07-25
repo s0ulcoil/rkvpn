@@ -2,9 +2,9 @@
 #announce: тгк @hiddenwikipedia
 #profile-update-interval: 1
 
-hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@46.254.18.107:9443?security=tls&insecure=0&sni=newlte.kihsuyhf8jkiugsxb.cfd#🇳🇱Нидерланды #1
+vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@217.150.197.54:8443?encryption=none&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&alpn=h2&fp=edge&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇵🇱Польша #1
 
-‎vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@217.150.197.54:8443?encryption=none&security=tls&sni=2.26.148.147.tyr-agentstvo.tech&alpn=h2&fp=edge&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇵🇱Польша #1
+hysteria2://1f31377f-a6bc-461f-9745-be3ed0ff4ecd@46.254.18.107:9443?security=tls&insecure=0&sni=newlte.kihsuyhf8jkiugsxb.cfd#🇳🇱Нидерланды #1
 
 vless://2f2bd7ab-8c19-4b02-9d4e-990cc74aee76@flight.oaklandjoseph.top:443?type=xhttp&security=tls&host=flight.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-three%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A3%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=flight.oaklandjoseph.top&fp=firefox&alpn=h2&encryption=none#🇷🇺Белые Списки #1
 

@@ -4,6 +4,8 @@
 
 hysteria2://e86fd04e-a2f5-4779-a529-748b1813cbc2@46.8.210.209:443?sni=ru3.kinotorg.net#🇷🇺Россия #1
 
+vless://547c0d9e-9bb5-4e83-b6e7-09953bc6004b@217.150.197.54:8443?encryption=none&security=tls&sni=2.26.148.147.tyragentstvo.tech&alpn=h2&fp=edge&type=ws&path=%2Fwebsocket%3Fed%3D2560#🇵🇱Польша #1
+
 vless://2f2bd7ab-8c19-4b02-9d4e-990cc74aee76@flight.oaklandjoseph.top:443?type=xhttp&security=tls&host=flight.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-three%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A3%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=flight.oaklandjoseph.top&fp=firefox&alpn=h2&encryption=none#🇷🇺Белые Списки #1
 
 vless://2f2bd7ab-8c19-4b02-9d4e-990cc74aee76@flight2.oaklandjoseph.top:443?type=xhttp&security=tls&host=flight2.oaklandjoseph.top&path=%2Fassets%2Fbuild%2F_app%2Fimmutable%2Fchunks%2Fstream-two%2F&mode=auto&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%220%22%2C%22maxConnections%22%3A3%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&sni=flight2.oaklandjoseph.top&fp=qq&alpn=h2&encryption=none#🇷🇺Белые Списки #2

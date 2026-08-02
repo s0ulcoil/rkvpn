@@ -1,48 +1,21 @@
 #profile-title: 丰
 #support-url: https://t.me/hiddenwikipedia
-#announce: тгк @hiddenwikipedia | последнее обновление : 01.08.26 21:45 МСК
+#announce: тгк @hiddenwikipedia | последнее обновление : 02.08.26 16:34 МСК
 #profile-update-interval: 1
 
 hysteria2://e86fd04e-a2f5-4779-a529-748b1813cbc2@46.8.210.209:443?sni=ru3.kinotorg.net#🇷🇺Россия #1 
 
-vless://b5c0e1ad-5fea-4d88-b5cb-4454630dffb6@185.91.53.82:9443?allowInsecure=1&alpn=h2&flow=&fp=firefox&pbk=QZz4tjRkxYsgTZBlRALOQU4O5YnAGtSGkXF8OSX11m8&security=reality&serviceName=ns&sid=&sni=id.pervye.ru&type=grpc#🇷🇺 Россия #2
-
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@77.73.131.154:443?encryption=none&security=reality&sni=vindobona.org&fp=firefox&pbk=5GhMSJXQv1wXHVD999YHRRj83m-7VKH8qb_vTxBGbng&sid=08&spx=%2F&flow=xtls-rprx-vision#🇦🇹Австрия #1
 
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd7.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇦🇹Австрия #2 
-
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk.bvps.cloud&fp=firefox&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&type=tcp&headerType=none#🇫🇮Финляндия #1
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@8.6.112.0:443?security=tls&type=xhttp&headerType=&path=%2F&host=kanan.aahhajwwiwjwowuwjwwjjwje.online&mode=packet-up&sni=kanan.aahhajwwiwjwowuwjwwjjwje.online&fp=chrome&alpn=h3#🇫🇮 Финляндия #2
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh1.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇩🇪 Германия #1
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd5.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇵🇱 Польша #1
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh3.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇬🇧 Великобритания #1
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh4.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇧🇾 Беларусь #1
-
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd8.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇷🇴 Румыния #1
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd9.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇨🇿 Чехия #1
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd10.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇹🇰 Туркменистан #1
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd11.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇸🇪 Швеция #1
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd12.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇧🇬 Болгария #1
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=ovd13.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇰🇿 Казахстан #1
-
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@8.6.112.0:443?security=tls&type=ws&headerType=&path=%2F&host=polshaov.ochmaybrooooo.online&sni=polshaov.ochmaybrooooo.online&fp=chrome&alpn=http%2F1.1&fragment=3%2C1%2Ctlshello#🇦🇿 Азербайджан #1
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=secure.furrycdn.net&type=tcp&headerType=none&path=%2F#🇪🇪 Эстония #1
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&headerType=none&security=tls&encryption=none&sni=secure.furrycdn.net&fp=chrome&flow=xtls-rprx-vision&insecure=0#🇳🇱 Нидерланды #1
 
-vless://417c11c0-265f-464f-b0db-5eba34f4c54d@199.232.238.189:443?security=tls&type=xhttp&headerType=&path=%2F&host=oh6.global.ssl.fastly.net&mode=packet-up&sni=accounts.fastly.com&fp=chrome&alpn=h3#🇳🇱 Нидерланды #2
+trojan://EA7NWTsFS7yv-cNm-JM_GUN2DUuBgmHt@90.156.218.179:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=firefox&type=tcp&sni=servour.speedload.ru#🇵🇱 Польша #1
+
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇮🇸 Исландия
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 Белые списки #1
 

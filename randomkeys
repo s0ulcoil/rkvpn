@@ -29,5 +29,6 @@ vless://23786eb4-0bbb-43c6-940c-a3b2b5242cb6@185.229.9.176:8443?type=grpc&securi
 
 vless://8560b150-6500-4e4c-9a4e-909bdbd2fcda@185.229.9.176:8443?type=grpc&security=reality&fp=safari&pbk=K9vJ2zLFxi3VTmrguyLC1KrC920axeFSeA8x_xY4Xhw&sni=id.pervye.ru&serviceName=ns#🇷🇺 Белые списки #7
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=secure.furrycdn.net#🇷🇺 Белые списки #15
-vless://c7e9c591-2764-423a-afca-efbd010fd396@45.95.232.18:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇷🇺 Белые списки #8
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=secure.furrycdn.net#🇷🇺 Белые списки #8
+
+vless://c7e9c591-2764-423a-afca-efbd010fd396@45.95.232.18:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇷🇺 Белые списки #9

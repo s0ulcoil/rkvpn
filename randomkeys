@@ -34,3 +34,7 @@ vless://8560b150-6500-4e4c-9a4e-909bdbd2fcda@185.229.9.176:8443?type=grpc&securi
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=secure.furrycdn.net#🇷🇺 Белые списки #8
 
 vless://c7e9c591-2764-423a-afca-efbd010fd396@45.95.232.18:2053?type=ws&security=tls&fp=chrome&sni=forfreeuse.sub-flow.online#🇷🇺 Белые списки #9
+
+vless://663cf772-829c-4bc6-893d-b7d021d42f5b@104.18.33.78:2083?encryption=none&security=tls&sni=vp4.cc.cd&fp=firefox&type=ws&host=vp4.cc.cd&path=%2F#🇷🇺 Белые списки #10
+
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk.bvps.cloud&fp=firefox&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&type=tcp&headerType=none#🇷🇺 Белые списки #11

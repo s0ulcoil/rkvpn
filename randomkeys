@@ -1,11 +1,11 @@
 #profile-title: 丰
 #support-url: https://t.me/hiddenwikipedia
-#announce: тгк @hiddenwikipedia | последнее обновление : 06.08.26 2:18 МСК
+#announce: тгк @hiddenwikipedia | последнее обновление : 06.08.26 13:45 МСК
 #profile-update-interval: 1
 
 hysteria2://e86fd04e-a2f5-4779-a529-748b1813cbc2@46.8.210.209:443?sni=ru3.kinotorg.net#🇷🇺Россия #1
 
-vless://92868492-9572-47fa-946c-9e44edeb62ec@172.247.109.66:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=PRLqQ27t_SqA759-vyfr1OMgcawB5sqUsUdyyEldXTs&security=reality&sid=abcd1234&sni=www.apple.com&type=raw#🇺🇸 США #1
+vless://7f111a18-3773-4dec-8528-fc747a17e5ae@31.58.50.200:8443?flow=xtls-rprx-vision&fp=firefox&pbk=mr5AF0LFyDzYDRoYAwH6QNcHXL77-LoiwRx50ZzU8QU&security=reality&sni=tradingview.com&type=tcp#🇺🇸 США #1
 
 vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=uk.bvps.cloud&fp=firefox&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&type=tcp&headerType=none#🇫🇮Финляндия #1
 
@@ -27,62 +27,42 @@ vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none
 
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&sni=secure.furrycdn.net#🇷🇺 Белые списки #4
 
-vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@37.9.4.224:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&security=reality&sid=aa03ec59c9695e91&sni=wl-2-1.legendary.ac&type=raw#🇳🇱 Белые списки #5
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 Белые списки #5
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 Белые списки #6
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 Белые списки #6
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 Белые списки #7
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=tcp#🇷🇺 Белые списки #7
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=tcp#🇷🇺 Белые списки #8
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Белые списки #8
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Белые списки #9
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Белые списки #9
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Белые списки #10
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=secure.furrycdn.net#🇷🇺 Белые списки #10
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=secure.furrycdn.net#🇷🇺 Белые списки #11
+vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&fp=ios&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp#🇷🇺 Белые списки #11
 
-vless://5cd8fc43-878f-11f1-8c93-54db13ea7d40@37.18.15.41:443?encryption=none&extra=null&fp=ios&mode=auto&path=%2F&pbk=XZeD6_It9XHw6A0p6GCSJHDzLCT9AFvDaiNrpQpMRXE&security=reality&sid=51d3e4f6&sni=www.nvidia.com&type=xhttp#🇷🇺 Белые списки #12
+vless://fde4bf10-efcf-4ce2-b1f8-a48edb7c118d@217.16.29.32:11759?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=MmrNPPrfA5IZ8btrf7dOT-OErPVFqrxUai5KQajaGBs&security=reality&sid=36&sni=vkontakte.ru&spx=%2F02f1245dbba5605&type=tcp#🇺🇸 Белые списки #12
 
-vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@62.152.58.114:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&security=reality&sid=3130197867c23edb&sni=wl-13-1.nodes.ac&type=raw#🇷🇺 Белые списки #13
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 Белые списки #13
 
-vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@62.152.58.114:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&security=reality&sid=3130197867c23edb&sni=wl-13-1.nodes.ac&type=raw#🇷🇺 Белые списки #14
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 Белые списки #14
 
-vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@87.228.101.30:443?encryption=none&extra=null&fp=firefox&mode=packet-up&path=%2Fapi%2F&security=tls&sni=media-ru3.lbdnetwork.com&type=xhttp#🇷🇺 Белые списки #15
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Белые списки #15
 
-vless://fde4bf10-efcf-4ce2-b1f8-a48edb7c118d@217.16.29.32:11759?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=MmrNPPrfA5IZ8btrf7dOT-OErPVFqrxUai5KQajaGBs&security=reality&sid=36&sni=vkontakte.ru&spx=%2F02f1245dbba5605&type=tcp#🇺🇸 Белые списки #16
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Белые списки #16
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 Белые списки #17
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Белые списки #17
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=secure.furrycdn.net&type=raw#🇷🇺 Белые списки #18
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=tcp#🇷🇺 Белые списки #18
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Белые списки #19
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=secure.furrycdn.net#🇷🇺 Белые списки #19
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&fp=firefox&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Белые списки #20
+vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=secure.furrycdn.net#🇷🇺 Белые списки #20
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&security=tls&sni=secure.furrycdn.net&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇷🇺 Белые списки #21
+vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@194.55.239.14:9442?security=reality&encryption=none&pbk=4T_g0pGf0GLsp9y7xfFGY8Iy-TGH-gcsCAHwkOPPhG0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4321916c00ee1ca6#🇷🇺 Белые списки #21
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=secure.furrycdn.net&type=tcp#🇷🇺 Белые списки #22
+vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@194.55.239.14:9442?security=reality&encryption=none&pbk=4T_g0pGf0GLsp9y7xfFGY8Iy-TGH-gcsCAHwkOPPhG0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4321916c00ee1ca6#🇷🇺Белые списки #22
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?allowInsecure=1&type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=secure.furrycdn.net#🇷🇺 Белые списки #23
+vless://aa8b4a23-655f-0001-aef6-27b0c45e7877@46.8.210.102:443?security=reality&encryption=none&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=0f4daaf87f9dff#🇷🇺 Белые списки #23
 
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.32:28474?type=raw&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=secure.furrycdn.net#🇷🇺 Белые списки #24
-
-vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@87.228.101.30:443?type=xhttp&security=tls&fp=edge&sni=media-ru3.lbdnetwork.com&path=/api/#🇷🇺 Белые списки #25
-
-vless://04b3ed78-61b5-42bb-9143-eeb70e64b5aa@87.228.101.30:443?encryption=none&extra=null&fp=edge&path=%2Fapi%2F&security=tls&sni=media-ru3.lbdnetwork.com&type=xhttp#🇷🇺 Белые списки #26
-
-vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@37.9.4.224:443?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&security=reality&sid=aa03ec59c9695e91&sni=wl-2-1.legendary.ac&type=raw#🇷🇺 Белые списки #27
-
-vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@37.9.4.224:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&security=reality&sid=aa03ec59c9695e91&sni=wl-2-1.legendary.ac&type=raw#🇷🇺 Белые списки #28
-
-vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@37.9.4.224:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=uL4x8EbCl080G43kFlv8nbpEyseWi1Dc_bl8F7lWtm8&security=reality&sid=aa03ec59c9695e91&sni=wl-2-1.legendary.ac&type=raw#🇷🇺 Белые списки #29
-
-vless://cdfa626f-ce5f-462e-8f09-52f0dca980c0@62.152.58.114:443?encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=jAJoyWJ4nMGai3H9BOa6QMUr2Vvpgqs8VipbaO5mCVU&security=reality&sid=3130197867c23edb&sni=wl-13-1.nodes.ac&type=raw#🇷🇺 Белые списки #30
-
-vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@194.55.239.14:9442?security=reality&encryption=none&pbk=4T_g0pGf0GLsp9y7xfFGY8Iy-TGH-gcsCAHwkOPPhG0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4321916c00ee1ca6#🇷🇺 Россия #31
-
-vless://b251ec8f-47ec-4ab4-8bd2-13ac333a4100@194.55.239.14:9442?security=reality&encryption=none&pbk=4T_g0pGf0GLsp9y7xfFGY8Iy-TGH-gcsCAHwkOPPhG0&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4321916c00ee1ca6#🇷🇺 Россия #32
-
-vless://aa8b4a23-655f-0001-aef6-27b0c45e7877@46.8.210.102:443?security=reality&encryption=none&pbk=DM3bRAvFPKomKjjmatlS2dH5VYZnUkPHw0BmA40kI2k&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=smartcaptcha.yandexcloud.net&sid=0f4daaf87f9dff#🇷🇺 Россия #33
-
-vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?security=reality&encryption=none&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=0dacf3306f#🇷🇺 Россия #34
+vless://aa8b4a23-655f-480c-aef6-27b0c45e7877@178.248.236.155:14443?security=reality&encryption=none&pbk=szC_0ZhoT_nwOrJcYXRrMw3EGJkiOAYCU-6atQo6mXQ&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=0dacf3306f#🇷🇺 Белые списки #24

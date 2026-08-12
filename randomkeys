@@ -21,25 +21,30 @@ vless://d361072e-9e0e-4e2d-8ec7-2a4189b5b23a@8.6.112.6:2053?encryption=none&host
 
 vless://551955b3-46e9-5129-95c9-e7474c15ed6b@64.188.77.184:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nl13.fast-connect-service.site&type=tcp#🇺🇸 США #2
 
+vless://27d187f3-80e0-4f26-8b1c-26b08b2abc4e@nusaretve.mvp-rk.site:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nusaretve.mvp-rk.site&type=tcp#🇺🇸 США #3
+
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.90.21.225:443?flow=xtls-rprx-vision&fp=firefox&pbk=aBNWkd8CVkuimbtzgsDNsIUIENI-PQuKkpUInLncz2o&security=reality&sid=fdda9806fe5d8584&sni=swe03.skorostnet.space&type=tcp#🇸🇪 Швеция #1
+
+vless://551955b3-46e9-5129-95c9-e7474c15ed6b@95.85.246.104:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl7.fast-connect-service.site&type=tcp#🇸🇪 Швеция #2
 
 vless://f1c496bf-d2ab-45be-bc13-051d60d227b7@84.32.209.7:443?flow=xtls-rprx-vision&fp=firefox&headertype=none&pbk=00n9LplaZ0VGvRS57548s7xe0deFC10pw2fkFHFPplM&security=reality&sni=dartsearch-cn.net&type=tcp#🇱🇹 Литва #1
 
+vless://456709bc-00e9-4161-95a3-331dcb7f9237@ufivadetb.mvp-rk.site:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ufivadetb.mvp-rk.site&type=tcp#🇫🇮 Финляндия #1
+
 vless://56e409a0-0042-4f50-92cd-741f78bfc8d0@94.183.157.123:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=c-BHW_-nU9vrPfqKdAqwC_hp3kkOiGu7trFsGg0Wi2Q&sid=18cfddd9&sni=www.cloudflare.com&spx=/Mg4w6tM1ielSHQS#🇵🇱 Польша #1
+
+vless://124cd7fe-b6e1-466a-9ad1-5953985b377f@vchm.mvpm.site:443?alpn=http%2F1.1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=vchm.mvpm.site&type=tcp#🇨🇭 Швейцария #1
 
 vless://8dd32d18-f32b-4204-b03b-74d5394a6487@80.253.251.52:13868?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=XxzDVidmyjuPnBKrFDwCpowaIdLth4-kJsqrDvdPPx8&sid=e852dc&sni=amd.com#🇩🇪 Германия #1
 
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&insecure=0&security=tls&type=tcp#🇷🇺 Белые списки #1
+vless://63ffaa18-d7dd-4bef-9479-9a979858850b@188.72.110.52:443?type=xhttp&security=tls&host=ai1.afinabs.com&path=%2Fapi%2FuploadFile%2F&mode=packet-up&extra=%7B%22path%22%3A%22%2Fapi%2FuploadFile%2F%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A300000%2C%22cMaxReuseTimes%22%3A100%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%2C%22uplinkHTTPMethod%22%3A%22GET%22%7D&sni=ai1.afinabs.com&fp=chrome&encryption=none#🇷🇺 Белые списки #1
 
-vless://16a1eeb0-8408-4592-a469-ecd33751021e@46.8.210.121:27455?type=xhttp&headerType=none&security=tls&encryption=none&sni=mirage.flowwowdev.com&alpn=h3&path=%2F&insecure=0&fp=firefox#🇦🇹 Белые списки #2
+vless://63ffaa18-d7dd-4bef-9479-9a979858850b@213.33.150.47:443?type=xhttp&security=tls&host=popka.lteshka.shop&path=%2Fapi%2FuploadFile%2F&mode=packet-up&extra=%7B%22path%22%3A%22%2Fapi%2FuploadFile%2F%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A300000%2C%22cMaxReuseTimes%22%3A100%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%2C%22uplinkHTTPMethod%22%3A%22GET%22%7D&sni=popka.lteshka.shop&fp=chrome&encryption=none#🇷🇺 Белые списки #2
 
-vless://47947923-49ac-49f8-86ed-2912bcbf2d18@104.171.134.67:4100?encryption=none&type=ws&security=none&path=%2Fv1&host=live.ok.ru&fp=edge#🇷🇺 Белые списки #3
+vless://63ffaa18-d7dd-4bef-9479-9a979858850b@213.33.150.47:443?type=xhttp&security=tls&host=up1.jtfdkxch.shop&path=%2Fapi%2FuploadFile%2F&mode=packet-up&extra=%7B%22path%22%3A%22%2Fapi%2FuploadFile%2F%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A300000%2C%22cMaxReuseTimes%22%3A100%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%2C%22uplinkHTTPMethod%22%3A%22GET%22%7D&sni=up1.jtfdkxch.shop&fp=chrome&encryption=none#🇷🇺 Белые списки #3
 
-vless://4cbdaf4f-ca34-4a00-9a96-49eaa6564b42@31.177.83.201:4100?path=%2Fv1&sni=live.ok.ru&type=ws#🇷🇺 Белые списки #4
+vless://63ffaa18-d7dd-4bef-9479-9a979858850b@188.72.110.3:443?type=xhttp&security=tls&host=cdn1.freelte.lol&path=%2Fapi%2FuploadFile%2F&mode=packet-up&extra=%7B%22path%22%3A%22%2Fapi%2FuploadFile%2F%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A300000%2C%22cMaxReuseTimes%22%3A100%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%2C%22uplinkHTTPMethod%22%3A%22GET%22%7D&sni=cdn1.freelte.lol&fp=chrome&encryption=none#🇷🇺 Белые списки #4
 
-vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@212.233.97.156:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=ru156.mechvpn.online&type=raw&fp=qq#🇦🇹 Белые списки #5
+vless://63ffaa18-d7dd-4bef-9479-9a979858850b@188.72.110.35:443?type=xhttp&security=tls&host=ls1.jtfdkxch.shop&path=%2Fapi%2FuploadFile%2F&mode=packet-up&extra=%7B%22path%22%3A%22%2Fapi%2FuploadFile%2F%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A300000%2C%22cMaxReuseTimes%22%3A100%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%2C%22uplinkHTTPMethod%22%3A%22GET%22%7D&sni=ls1.jtfdkxch.shop&fp=chrome&encryption=none#🇷🇺 Белые списки #5
 
-vless://b50a52ba-891f-44ff-af82-f5f0f3317024@boltvia.orbvia.online:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=boltvia.orbvia.online&pbk=c9FNVDSx_oUTDFW0JewGq511wlGweUkQGgPPY9vsCVM&sid=08804e078e1257c8&packetEncoding=xudp&fp=qq#🇩🇪 Белые списки #6
-
-vless://553e3253-c454-431d-a7e6-42bc06ea5e14@5.189.223.90:9881?type=grpc&security=reality&encryption=none&sni=dl.google.com&serviceName=grpc-tunnel&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aabb&mode=multi&spx=%2F&fp=chrome#🇰🇿 Белые списки #7
-
+vless://63ffaa18-d7dd-4bef-9479-9a979858850b@213.33.150.47:443?type=xhttp&security=tls&host=ls1.jtfdkxch.shop&path=%2Fapi%2FuploadFile%2F&mode=packet-up&extra=%7B%22path%22%3A%22%2Fapi%2FuploadFile%2F%22%2C%22xmux%22%3A%7B%22cMaxLifetimeMs%22%3A300000%2C%22cMaxReuseTimes%22%3A100%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%7D%2C%22uplinkHTTPMethod%22%3A%22GET%22%7D&sni=ls1.jtfdkxch.shop&fp=chrome&encryption=none#🇷🇺 Белые списки #6

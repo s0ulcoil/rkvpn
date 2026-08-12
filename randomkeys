@@ -3,8 +3,6 @@
 #announce: тгк @hiddenwikipedia | последнее обновление : 11.08.26 1:20 МСК
 #profile-update-interval: 1
 
-vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.14.31:443?security=reality&encryption=none&pbk=dqNf0WzsieOO2lPrm_clopblTaFeX9xHNwWsaUY9CC0&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=bestrecipes-online.site&sid=ec35d84c1661b372#🇷🇺YouTube без рекламы #1 
-
 hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&insecure=0&sni=ru3.kinotorg.net#🇪🇪 Эстония #1
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@89.23.103.120:13868?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sgpya-5ohMKCjzyrDe4RWz7b8O9XegDzQ88oHCV45Gk&security=reality&sid=e852dc&sni=booking.com&type=tcp#🇳🇱 Нидерланды #1
@@ -19,8 +17,11 @@ vless://166ef05e-8ab5-43b7-8910-d1bb0a4326a5@188.72.103.3:443?encryption=none&fp
 
 vless://5f5fcc00-75a3-4ad0-ba8d-d834853be921@91.240.86.12:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=2ZUQYIhUijdJ1vRL8iR8RxjmJvRVHYp-JoWevQ2LyR4&security=reality&sid=7bb730e3e6616d31&sni=yandex.ru&spx=%2F&type=raw#🇷🇺 Белые списки #2
 
-vless://27392d81-048b-45c6-b919-70f4d3f9d60e@45.153.190.146:8444?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&pbk=nzqaN3lDq7ydcGlEpDvQ58WNo2iEETUxDHzSZwvkhmY&security=reality&sid=a1b2c3d4&sni=yastatic.net&type=tcp#🇷🇺 Белые списки #3
+vless://53c76647-14d1-4df5-99cb-be99ad2e6bd9@ru156.mechvpn.online:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&headerType=none&insecure=0&security=tls&type=tcp#🇷🇺 Белые списки #3
 
 vless://83eda926-645c-4f88-9dbe-bf33ac18c8f4@178.159.94.108:2083?encryption=none&flow=xtls-rprx-vision&fp=edge&pbk=40eDnye2AHCQqgM2_ikKzRayZ4Vlu4rnnkHmLmNalQc&security=reality&sid=32a37218722f0081&sni=swe-one.quiet-rogue.site&type=raw#🇷🇺 Белые списки #4
 
 vless://95e8532b-cc69-42d4-9553-e3c23292b15b@45.151.101.103:443?encryption=none&fp=edge&mode=gun&pbk=gr7DAOBqoNiHEUhWZQh3nSqBOmg6QwmRC0HKj7TOsUk&security=reality&serviceName=your-custom-path&sid=2da4299da566b7&sni=maps.apple.com&type=grpc#🇷🇺 Белые списки #5
+
+vless://553e3253-c454-431d-a7e6-42bc06ea5e14@5.189.223.90:9881?authority=dl.google.com&encryption=none&fp=firefox&mode=multi&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&security=reality&serviceName=grpc-tunnel&sid=aabb&sni=dl.google.com&spx=%2F&type=grpc#🇷🇺 Белые списки #6
+
